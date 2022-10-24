@@ -10,7 +10,7 @@ def main():
     # this uses  select case to find months of the year
 
     # input
-    print("Each number represents a month of the year (ex 1 = december):")
+    print("Each number represents a month of the year (ex 12 = december):")
     user_month = int(input("Enter a number between 1 and 12:"))
 
     # process and output
