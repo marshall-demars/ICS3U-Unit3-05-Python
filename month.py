@@ -40,7 +40,7 @@ def main():
         case 12:
             print("You chose December!")
         case _:
-            print("Not a month.")
+            print("Not a month!")
 
     print("\nDone.")
 
